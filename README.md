@@ -1,85 +1,115 @@
-<h1 align="center">Hi there 👋, I'm Mekigobai</h1>
-<h3 align="center">🚀 Fullstack Web Developer | Passionate about clean code, creative UI, and smart systems</h3>
+<!-- GitHub Profile README - Mekigobai -->
 
 <p align="center">
-  <a href="https://github.com/mekigobai">
-    <img src="https://komarev.com/ghpvc/?username=mekigobai&label=Profile%20views&color=0e75b6&style=flat" alt="mekigobai" />
+  <img src="https://raw.githubusercontent.com/mekigobai/mekigobai/main/baner.png" alt="Banner Mekigobai" />
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Mekigobai</span></h1>
+<h3 align="center">💻 Fullstack Web Developer | UI/UX Enthusiast | PHP & JS Craftsman</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mekigobai&label=Profile+Views&color=4F46E5&style=flat" alt="mekigobai" />
+  <a href="mailto:mekigobai@gmail.com">
+    <img src="https://img.shields.io/badge/email-mekigobai@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💡 Tentang Saya
+## 🚀 Tentang Saya
 
-- 🔭 Saat ini saya sedang membangun sistem pemilihan, portofolio, dan edukasi berbasis web
-- 🌱 Sedang memperdalam: **Next.js**, **Laravel**, dan **Firebase**
-- 💬 Tertarik ngobrol soal: **PHP, JavaScript, Tailwind CSS, Database**
-- 🎯 Fokus saya: **UI/UX modern**, **CRUD aplikasi**, dan **sistem real-time**
-- ⚡ Fun fact: Saya suka ngoding sambil ngopi ☕ dan mendengarkan musik 🎧
+Saya adalah seorang **Fullstack Web Developer** yang berfokus pada pembuatan sistem berbasis web yang **interaktif**, **skalabel**, dan **profesional**. Aktif mengembangkan proyek-proyek seperti:
+
+- 🗳️ Sistem Pemilihan Ketua Organisasi Mahasiswa
+- 🎓 Platform Edukasi & Portofolio Digital (Edukasi Code Academy)
+- 📜 Sistem Sertifikasi Digital dengan QR & PDF
+
+Saya percaya bahwa **teknologi adalah alat perubahan sosial**, dan saya ingin menjadi bagian dari perubahan itu melalui kode.
 
 ---
 
-### 🛠️ Stack Teknologi
+## 🛠️ Tools & Tech Stack
 
-#### 🚀 Languages & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-#### 🧰 Tools & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## 💼 Proyek Unggulan
+
+| Proyek | Deskripsi | Teknologi |
+|--------|-----------|-----------|
+| 🗳️ **Sistem Pemilihan Ketua** | Voting berbasis AHP, multi-periode, real-time log | PHP, Tailwind, MySQL |
+| 🎓 **Edukasi Code Academy** | Platform portofolio dan pelatihan web | PHP, Firebase, Alpine.js |
+| 🪪 **Sertifikat Digital** | QR, verifikasi, dan export sertifikat ke PDF | PHP, JavaScript, Tailwind |
+
+---
+
+## 📜 Sertifikat
+
+- 🎓 **Fullstack Web Developer – Digital Talent**
+- 🎓 **Front-End Web Dev – Dicoding**
+- 📜 **Belajar Dasar Web – Dicoding**
+- 🔗 Sertifikat digital tersedia di [edukasicodeacademy.com](https://www.edukasicodeacademy.com)
+
+---
+
+## 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mekigobai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekigobai&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mekigobai&show_icons=true&theme=calm" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekigobai&layout=compact&theme=calm" width="49%"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🫱🏻‍🫲🏼 Kontribusi & Komunitas
+
+- 🤝 **Hacktoberfest Contributor**
+- 🌱 Aktif di proyek komunitas digital edukasi
+- 💡 Terbuka untuk kolaborasi open source
+
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=flat-square)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)
+![Open Source](https://img.shields.io/badge/open%20source%20lover-true-blue?style=flat-square)
+
+---
+
+## 🌐 Terhubung dengan Saya
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/meki-gobai-338704273/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <!-- GitHub -->
   <a href="https://github.com/mekigobai" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <!-- Instagram -->
   <a href="https://www.instagram.com/edukasicode/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  <!-- Facebook -->
   <a href="https://www.facebook.com/umagi.mee/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-
-  <!-- TikTok -->
   <a href="https://www.tiktok.com/@meckye.bc?lang=id-ID" target="_blank">
-    <img src="https://img.shields.io/badge/-TikTok-000000?logo=tiktok&style=for-the-badge&logoColor=white" alt="TikTok">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> _"Kualitas bukanlah suatu tindakan, melainkan kebiasaan."_ – Aristotle  
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
-
+> _"Build with purpose. Code with heart."_ 💙  
+> _"Kualitas bukan tindakan, tapi kebiasaan."_ – Aristotle

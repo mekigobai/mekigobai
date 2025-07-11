@@ -1,8 +1,7 @@
 <!-- GitHub Profile README - Mekigobai -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mekigobai/mekigobai/main/baner.png" alt="Banner Mekigobai" />
-</p>
+<img width="1584" height="396" alt="baner" src="https://github.com/user-attachments/assets/b4bfbd60-f97e-41be-9b4a-d4ca3ad0ed52" />
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Mekigobai</span></h1>
 <h3 align="center">💻 Fullstack Web Developer | UI/UX Enthusiast | PHP & JS Craftsman</h3>

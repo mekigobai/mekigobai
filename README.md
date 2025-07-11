@@ -1,8 +1,7 @@
 <!-- GitHub Profile README - Mekigobai -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Mekigobai</span></h1>
-<h3 align="center">💻 Fullstack Web Developer | UI/UX Enthusiast | PHP & JS Craftsman</h3>
-
 <img width="1584" height="396" alt="baner" src="https://github.com/user-attachments/assets/b4bfbd60-f97e-41be-9b4a-d4ca3ad0ed52" />
+<h3 align="center">💻 Fullstack Web Developer | UI/UX Enthusiast | PHP & JS Craftsman</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mekigobai&label=Profile+Views&color=4F46E5&style=flat" alt="mekigobai" />
